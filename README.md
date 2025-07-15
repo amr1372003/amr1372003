@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./ChatGPT Image Jul 15, 2025, 10_08_28 PM.png" alt="Amr Hassan Banner"/>
+</p>
+
+
 # 👋 Hi, I’m Amr Hassan
 
 🎓 Electronics and Communication Engineering student at MIU  
