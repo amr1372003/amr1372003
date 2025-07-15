@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ChatGPT Image Jul 15, 2025, 10_08_28 PM.png" alt="Amr Hassan Banner"/>
+  <img src="./banner.png" alt="Amr Hassan Banner"/>
 </p>
 
 
